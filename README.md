@@ -17,7 +17,7 @@ There are duplicate entries for some employees because they have switched titles
 •	**Employees eligible to for Mentorship**<br><br>
 A major point we can draw from the Mentorship Eligibility table we created is that 1% of our employees are identified in the mentorship eligibility query – or put another way, a total of 1,549 employees.  That is an exciting number to see as we plan to launch of Mentorship Program.  What the data does tells us is that 45% of the eligible Mentors have Senior in their titles.  The bright side of having such a small sample size but filled with senior level expertise is that the mentorship process can be more in-depth since this is going to be a critical and crucial implementation. More than likely, we have identified most of the employees who will mature into the agents of change and future leaders within the Pewlett-Hackard organization.<br><br>
 ![mentorship_eligibility_results](Data/mentorship_eligibility_results.png)
-•	Departments with the most eligible for Mentorship<br><br>
+•	**Departments with the most eligible for Mentorship**<br><br>
 ![PH_Mentorship_Departments](Data/PH_Mentorship_Departments.png)<br><br>
 **Summary**<br><br> 
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?<br><br>
