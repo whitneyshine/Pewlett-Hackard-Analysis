@@ -8,7 +8,6 @@ The second leg of our assignment will be to create a mentorship-eligibility tabl
 ![PH_Departments](Data/PH_Departments.png)<br><br>
 **Results**<br><br>
 •	First Major Point<br><br>
-![retirement_titles_date](Data/retirement_titles_date.png)<br><br>
 •	Second Major Point<br><br>
 [Retiring Titles](https://github.com/whitneyshine/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)<br><br>
 •	Third Major Point<br><br>
