@@ -3,7 +3,7 @@
 **Background**<br><br>
 Now that Bobby has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. Then, summarizes your analysis in order to help  Bobby’s manager prepare for the “silver tsunami” as many current employees reach retirement age.  Understanding the data we are working with and finding the connections within is a huge step.<br><br>
 **Overview of the analysis**<br><br>
-
+Our first assignment is to create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions—we will need to create a table that contains the most recent title of each employee. Then, we will create a final table that has the number of retirement-age employees by most recent job title.
 The current analysis will be extracted from the nine departments that Pewlett-Hackard divides their employees in respectively.<br><br>
 ![PH_Departments](Data/PH_Departments.png)<br><br>
 **Results**<br><br>
