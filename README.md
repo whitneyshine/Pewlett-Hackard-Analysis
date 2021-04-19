@@ -11,7 +11,8 @@ The second leg of our assignment will be to create a mentorship-eligibility tabl
 The first major point we can draw from the Retiring Titles report we created is that 30% of the employees are eligible for retirement.  That is an astounding number to digest as well as plan an effective succession plan.  <br>
 [Retiring_Titles](https://github.com/whitneyshine/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)<br><br>
 What the data also tells us is that 64% of the Retiring Titles are comprised of Senior Level Employees and if we look at it from the big picture of Pewlett-Hackard, that is total represents 19% of their current workforce.<br><br>
-•	Second Major Point<br><br>
+•	Years of Service with Pewlett-Hackard<br><br>
+![retirement_titles_date](Data/retirement_titles_date.png)<br><br>
 •	Third Major Point<br><br>
 •	Fourth Major Point<br><br>
 **Summary**<br><br> 
